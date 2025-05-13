@@ -195,7 +195,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             <p>
                                 All Content Loaded, launching{' '}
                                 <b style={styles.green}>
-                                    'Henry Heffernan Portfolio Showcase'
+                                    'Aastik Rajan Portfolio Showcase'
                                 </b>{' '}
                                 V1.0
                             </p>
@@ -221,7 +221,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                 })}
             >
                 <div style={styles.startPopup}>
-                    <p>Henry Heffernan Portfolio Showcase 2022</p>
+                    <p>Aastik Rajan Portfolio Showcase 2024</p>
                     {mobileWarning && (
                         <>
                             <br />
